@@ -1,3 +1,5 @@
+perplexity analysis on the 124M model training from the ground up
+
 **Status:** Archive (code is provided as-is, no updates expected)
 
 # gpt-2
